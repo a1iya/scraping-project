@@ -30,3 +30,9 @@ def crypto
 end
 
 #binding.pry
+
+def perform
+  crypto
+end
+
+# puts perform
